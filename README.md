@@ -2,7 +2,7 @@
 Here, I have connected the Liquibase and run migration commands for database in mysql server.
 
 ### Run docker-compose
-> docker-compose up
+> docker-compose up <br />
 > sudo docker-compose up   // if permission required
 
 ### Run Liquibase commands with Make
